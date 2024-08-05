@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhansibalaga&label=Profile%20views&color=0e75b6&style=flat" alt="jhansibalaga" /> </p>
 
 - 🌱 I’m currently learning **Java Full Stack**
+- 👯 I’m looking to collaborate on Real-Time projects.
+- 💬 Ask me about CoreJava, JDBc ,HTML, CSS, and Bootstrap.
+-  📫 How to reach me **jhansibalaga4@gmail.com**
+- ⚡ Fun fact: I love solving coding challenges and building innovative projects.
 
-- 📫 How to reach me **jhansibalaga4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
